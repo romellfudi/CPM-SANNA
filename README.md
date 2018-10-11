@@ -130,7 +130,7 @@ img[src='#centerBig'] {
     margin: auto;
 }
 img[src*='#centerMedium'] { 
-    width:350px;
+    width:200px;
     display: block;
     margin: auto;
 }
