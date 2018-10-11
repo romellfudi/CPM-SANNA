@@ -119,7 +119,7 @@ De la misma manera se requiere desarrollar tecnología para la gestión de pacie
 
 ### Artefacts Tracebility
 
-![](topics/Tracebility.png#centerLarge)
+![](topics/Tracebility.png#centerBig)
 
 **2017, November**
 
@@ -131,12 +131,6 @@ img[src*='#centerMedium'] {
 }
 img[src*='#centerBig'] { 
     width:800px;
-    display: block;
-    margin: auto;
-}
-img[src*='#centerLarge'] { 
-    width:1000px;
-    padding-left: -150px;
     display: block;
     margin: auto;
 }
