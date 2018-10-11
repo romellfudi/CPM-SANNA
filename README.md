@@ -1,11 +1,29 @@
 ## Etapas
 
-### by Romell Domínguez
+### author: Eng. Romell Domínguez
 [![](snapshot/icono.png#centerMedium)](https://www.romellfudi.com/)
+
+###
+
+![](Sketch/DOCTORES.png#centeBig)]
+
+![](Sketch/ESTADO.png#centeBig)]
+
+![](Sketch/IMPLEMENTACIÓN.png#centeBig)]
+
+![](Sketch/PACIENTES.png#centeBig)]
+
+![](Sketch/REVOLUCIÓN.png#centeBig)]
+
+![](Sketch/SOMOS.png#centeBig)]
+
+![](Sketch/SANNA.png#centeBig)]
 
 ### about
 
-### chatbot
+
+
+### SANNA ChatBot
 
 ### Artefacts Trazability
 
