@@ -5,19 +5,19 @@
 
 ###
 
-![](Sketch/DOCTORES.png#centeBig)]
+![](Sketch/DOCTORES.png#centeBig)
 
-![](Sketch/ESTADO.png#centeBig)]
+![](Sketch/ESTADO.png#centeBig)
 
-![](Sketch/IMPLEMENTACIÓN.png#centeBig)]
+![](Sketch/IMPLEMENTACIÓN.png#centeBig)
 
-![](Sketch/PACIENTES.png#centeBig)]
+![](Sketch/PACIENTES.png#centeBig)
 
-![](Sketch/REVOLUCIÓN.png#centeBig)]
+![](Sketch/REVOLUCIÓN.png#centeBig)
 
-![](Sketch/SOMOS.png#centeBig)]
+![](Sketch/SOMOS.png#centeBig)
 
-![](Sketch/SANNA.png#centeBig)]
+![](Sketch/SANNA.png#centeBig)
 
 ### about
 
