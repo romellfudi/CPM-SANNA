@@ -5,39 +5,39 @@
 
 ### Presentación
 
-![](Sketch/SOMOS.png#centeBig)
+![](Sketch/SOMOS.png#centerBig)
 
 ### Misión, Visión y Valores
 
-![](make/Mision_Vision_Valores.png#centeBig)
+![](make/Mision_Vision_Valores.png#centerBig)
 
 ### Naturaleza actual
 
-![](Sketch/ESTADO.png#centeBig)
+![](Sketch/ESTADO.png#centerBig)
 
 ### Fortalezas y debilidades
 
-![](make/FODA.png#centeBig)
+![](make/FODA.png#centerBig)
 
 ### Comprensión Artistica
 
-![](make/Meaning.png#centeBig)
+![](make/Meaning.png#centerBig)
 
 ### Alineación TI con el Negocio
 
-![](make/Ti_Estratégia_SANNA.png#centeBig)
+![](make/Ti_Estratégia_SANNA.png#centerBig)
 
 ### 7S de McKensy
 
-![](make/7sMacKinsey.png#centeBig)
+![](make/7sMacKinsey.png#centerBig)
 
 ### Servicios Ofrecidos
 
-![](make/Services.png#centeBig)
+![](make/Services.png#centerBig)
 
 ### Cadena de Valor en SANNA
 
-![](make/Cadena_Valor.png#centeBig)
+![](make/Cadena_Valor.png#centerBig)
 
 De la misma manera se requiere desarrollar tecnología para la gestión de pacientes, manejar los sistemas de almacenes para la gestión de alimentos y sistema de farmacéuticos que requiere tener una coordinación con nuestros proveedores para el abastecimiento, de fármacos, alimentos para   el departamento de nutrición. 
 
@@ -45,87 +45,87 @@ De la misma manera se requiere desarrollar tecnología para la gestión de pacie
 
 #### Gather:
 
-![](make/GATHER.png#centeBig)
+![](make/GATHER.png#centerBig)
 
 #### Understand:
 
-![](make/Entender.png#centeBig)
+![](make/Entender.png#centerBig)
 
 #### Debate:
 
-![](make/debatir.png#centeBig)
+![](make/debatir.png#centerBig)
 
 #### Commit: 
 
-![](make/Comprometerse.png#centeBig)
+![](make/Comprometerse.png#centerBig)
 
 ### CMM LEVEL FROM CMP SANNA
 
-![](make/CMM_SANNA.png#centeBig)
+![](make/CMM_SANNA.png#centerBig)
 
 ### Mapa Estratégico
 
-![](make/MapaEstrategico.png#centeBig)
+![](make/MapaEstrategico.png#centerBig)
 
 ### Mapa Estratégico Aumentado
 
-![](topics/Mapa_Estratégico_Aumentado.png#centeBig)
+![](topics/Mapa_Estratégico_Aumentado.png#centerBig)
 
 ### Situación Actual - As Is
 
-![](make/As_Is_SANNA.png#centeBig)
+![](make/As_Is_SANNA.png#centerBig)
 
 ### Modelo Futuro - To Be
 
-![](make/To_Be_SANNA.png#centeBig)
+![](make/To_Be_SANNA.png#centerBig)
 
 ### Inventario de Indicadores TI
 
-![](make/Inventario_TI.png#centeBig)
+![](make/Inventario_TI.png#centerBig)
 
 ### Inventario de Servicio al Cliente
 
-![](make/Inventario_Customer.png#centeBig)
+![](make/Inventario_Customer.png#centerBig)
 
 ### Definición de métricas
 
-![](make/METRICS.png#centeBig)
+![](make/METRICS.png#centerBig)
 
 ### Dashboard Models
 
 #### Production metrics 
 
-![](make/Modelo_DashBoard_1.jpg#centeBig)
+![](make/Modelo_DashBoard_1.jpg#centerBig)
 
 #### Production Time Series and Forcasting
 
-![](make/Modelo_DashBoard_2.jpg#centeBig)
+![](make/Modelo_DashBoard_2.jpg#centerBig)
 
 ### PROPUESTA DE VALOR: Data Science
 
-![](Sketch/IMPLEMENTACIÓN.png#centeBig)
+![](Sketch/IMPLEMENTACIÓN.png#centerBig)
 
 ### PROPUESTA DE VALOR: Prototipo SANNA Chatbot
 
-![](make/Prototipo.png#centeBig)
+![](make/Prototipo.png#centerBig)
 
 ### PROPUESTA DE VALOR: PAAS
 
-![](make/PAAS.png#centeBig)
+![](make/PAAS.png#centerBig)
 
 ### Visión Futura con CPM
 
-![](Sketch/REVOLUCIÓN.png#centeBig)
+![](Sketch/REVOLUCIÓN.png#centerBig)
 
 ### Artefacts Tracebility
 
-![](topics/Tracebility.png#centeBig)
+![](topics/Tracebility.png#centerBig)
 
 **2017, November**
 
 <style>
 img[src*='#centerBig'] { 
-    width:700px;
+    width:500px;
     display: block;
     margin: auto;
 }
