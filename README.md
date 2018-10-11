@@ -1,7 +1,6 @@
 ## Análisis del Estudio
 
-### author: Eng. Romell Domínguez
-[![](snapshot/icono.png#centerMedium)](https://www.romellfudi.com/)
+### author: Ing. [Romell Domínguez](https://www.romellfudi.com/)
 
 ### Presentación
 
@@ -124,11 +123,6 @@ De la misma manera se requiere desarrollar tecnología para la gestión de pacie
 **2017, November**
 
 <style>
-img[src*='#centerMedium'] { 
-    width:150px;
-    display: block;
-    margin: auto;
-}
 img[src*='#centerBig'] { 
     width:800px;
     display: block;
