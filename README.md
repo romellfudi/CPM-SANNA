@@ -5,7 +5,33 @@
 
 ### 
 
-![](make/7s de MacKinsay.png#centeBig)
+![](make/7sMacKinsey.png#centeBig)
+
+![](make/As_Is_SANNA.png#centeBig)
+
+![](make/7sMacKinsey.png#centeBig)
+
+![](make/CMM_SANNA.png#centeBig)
+
+![](make/Comprometerse.png#centeBig)
+
+![](make/debatir.png#centeBig)
+
+![](make/Entender.png#centeBig)
+
+![](make/GATHER.png#centeBig)
+
+![](make/MapaEstrategico.png#centeBig)
+
+![](make/Comprometerse.png#centeBig)
+
+![](make/Modelo_DashBoard_1.jpg#centeBig)
+
+![](make/Modelo_DashBoard_2.jpg#centeBig)
+
+![](make/Ti_Estratégia_SANNA.png#centeBig)
+
+![](make/To_Be_SANNA.png#centeBig)
 
 
 ### 
