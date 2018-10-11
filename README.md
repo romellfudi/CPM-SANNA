@@ -95,11 +95,11 @@ De la misma manera se requiere desarrollar tecnología para la gestión de pacie
 
 #### Production metrics 
 
-![](make/Modelo_DashBoard_1.jpg#centerBig)
+![](make/Modelo_DashBoard_a.png#centerBig)
 
 #### Production Time Series and Forcasting
 
-![](make/Modelo_DashBoard_2.jpg#centerBig)
+![](make/Modelo_DashBoard_b.png#centerBig)
 
 ### PROPUESTA DE VALOR: Data Science
 
