@@ -125,7 +125,7 @@ De la misma manera se requiere desarrollar tecnología para la gestión de pacie
 
 <style>
 img[src*='#centerMedium'] { 
-    width:200px;
+    width:150px;
     display: block;
     margin: auto;
 }
@@ -136,6 +136,7 @@ img[src*='#centerBig'] {
 }
 img[src*='#centerLarge'] { 
     width:1000px;
+    padding-left: -150px;
     display: block;
     margin: auto;
 }
