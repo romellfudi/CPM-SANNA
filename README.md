@@ -3,7 +3,12 @@
 ### author: Eng. Romell Domínguez
 [![](snapshot/icono.png#centerMedium)](https://www.romellfudi.com/)
 
-###
+### 
+
+![](make/7s de MacKinsay.png#centeBig)
+
+
+### 
 
 ![](Sketch/DOCTORES.png#centeBig)
 
