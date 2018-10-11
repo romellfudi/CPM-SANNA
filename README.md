@@ -124,8 +124,8 @@ De la misma manera se requiere desarrollar tecnología para la gestión de pacie
 **2017, November**
 
 <style>
-img[src='#centerBig'] { 
-    width:700px;
+img[src*='#centerBig'] { 
+    width:800px;
     display: block;
     margin: auto;
 }
@@ -135,16 +135,6 @@ img[src*='#centerMedium'] {
     margin: auto;
 }
 img[src*='#centerSmall'] { 
-    width:100px;
-    display: block;
-    margin: auto;
-}
-img[src*='#vertical'] { 
-    width:250px;
-    display: block;
-    margin: auto;
-}
-img[src*='#circleci'] { 
     width:100px;
     display: block;
     margin: auto;
