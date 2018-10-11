@@ -1,0 +1,26 @@
+// SANNA's bit
+! version = 1.0.a
+
+// {weight=25} // peso de probabilidad
+
+// Substitutions
+! var name =    SANNA'S BOT
+
++ (([*] chat bot [*])|([*] bot chat [*]))
+- Buenas Noches Salon de B I.Yo soy <bot name>,  Cuál es tu nombre?
+
++ (yo soy |mi nombre |me llamo) *
+- Muy bien. Ahora <set nombre<star1>><star1>,\n
+^ dime cuál es tu dni?
+
++ (quien eres|que eres)[?]
+- Yo soy <bot name>.
+- Soy <bot name>, fui creado para esta clase.
+- <bot name>,Seré tu asistente en este momento.
+
+
++ * 
+- No estoy seguro la respuesta de eso.
+- Intente realizar otra consulta diferente.
+- Cambiamos de tema.
+- Qué?.. Qué?.. No entiendo, estoy Aprendiendo.

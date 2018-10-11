@@ -1,0 +1,47 @@
+// SANNA's bit
+! version = 1.0.a
+
+// {weight=25} // peso de probabilidad
+
+// Substitutions
+! var name =    SANNA'S BOT
+! var user = User 
+! var especialidades = pediatria odontologia general ofmatologia dermatologia 
+! var doctores = Juan Lopez | Pedro Diaz | Carmen Perez | Diana Luna | Tania 
+! var res = 0
+! sub á     = a
+! sub é     = e
+! sub í     = i
+! sub ó     = o
+! sub ú     = u
+! sub sí     = si
+
++ (([*] chat bot [*])|([*] bot chat [*])|([*] chatbot [*])|([*] botchat [*]))
+- <bot res=1>Buenas Noches Salon de B I. 
+
++ (yo soy|me llamo|soy|mi nombre es) *
+- <bot res=2><bot user={formal}<star2>{/formal}>\n
+^ Muy bien. Ahora <bot user>,
+
++ (quien eres|que eres)[?]
+- <bot res=3>Yo soy <bot name>.
+- <bot res=3>Soy <bot name>, fui creado para esta clase.
+- <bot res=3><bot name>, seré tu asistente en este momento.
+
+//+ (mi dni es|es|dni) *
++ mi dni es *
+- <bot res=4><set dni={formal}<star1>{/formal}>Confirmame <bot user>, su dni es <get dni>?
+//@ pr dni
+
++ (si|no)
+//% dni correcto
+- <bot res=5>Listo, ahora dime en qué puedo ayudarte.
+
++ pr dni // preguntar por dni
+- <bot res=6>digame cuál es su DNI?
++ pr nombre // preguntar por nombre
+- <bot res=7>Cuál es su nombre?
+
+
+
+
