@@ -105,9 +105,9 @@ De la misma manera se requiere desarrollar tecnología para la gestión de pacie
 
 ![](Sketch/IMPLEMENTACIÓN.png#centerBig)
 
-### PROPUESTA DE VALOR: Prototipo SANNA Chatbot
+### PROPUESTA DE VALOR: Prototipo SANNA Chatbot [go](SANNA%20BOT/index.html)
 
-![](make/Prototipo.png#centerBig)
+[![](make/Prototipo.png#centerBig)](SANNA%20BOT/index.html)
 
 ### PROPUESTA DE VALOR: PAAS
 
@@ -119,23 +119,23 @@ De la misma manera se requiere desarrollar tecnología para la gestión de pacie
 
 ### Artefacts Tracebility
 
-![](topics/Tracebility.png#centerBig)
+![](topics/Tracebility.png#centerLarge)
 
 **2017, November**
 
 <style>
-img[src*='#centerBig'] { 
-    width:800px;
-    display: block;
-    margin: auto;
-}
 img[src*='#centerMedium'] { 
     width:200px;
     display: block;
     margin: auto;
 }
-img[src*='#centerSmall'] { 
-    width:100px;
+img[src*='#centerBig'] { 
+    width:800px;
+    display: block;
+    margin: auto;
+}
+img[src*='#centerLarge'] { 
+    width:1000px;
     display: block;
     margin: auto;
 }
