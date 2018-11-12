@@ -120,8 +120,6 @@ De la misma manera se requiere desarrollar tecnología para la gestión de pacie
 
 ![](topics/Tracebility.png#centerBig)
 
-**2018, September**
-
 <style>
 img[src*='#centerBig'] { 
     width:1000px;
